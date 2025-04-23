@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 140px;
+    background-color: rgb(41, 148, 248);
+    background-image: url("../img/pattern.png");
+    background-size: cover;
+    background-size: 35%;
+}
+
+.logo{
+    height: 70px;
+    margin-top: 45px;
+    margin-left: 10px;
+}
