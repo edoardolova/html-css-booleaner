@@ -17,3 +17,36 @@ header{
     margin-top: 45px;
     margin-left: 10px;
 }
+
+main{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h1{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.gray{
+    color: gray;
+}
+
+.light-blue{
+    color:  rgb(76, 168, 255);
+}
+
+.text-small{
+    font-size: 0.7rem;
+}
+
+.margin-bottom{
+    margin-bottom: 15px;
+}
+
+.tim-img{
+    height: 500px;
+}
+
+
+
