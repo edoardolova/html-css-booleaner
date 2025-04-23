@@ -7,6 +7,7 @@
     font-style: normal;
 }
 
+/* header  */
 header{
     height: 140px;
     background-color: rgb(41, 148, 248);
@@ -26,10 +27,7 @@ header{
     margin-right: 10px;
 }
 
-h1{
-    font-size: 3rem;
-    font-weight: 600;
-}
+
 
 /* utils */
 .gray{
@@ -58,6 +56,12 @@ h1{
 
 .background-white{
     background-color: white;
+}
+
+/* article title  */
+h1{
+    font-size: 3rem;
+    font-weight: 600;
 }
 
 /* article image  */

@@ -1,0 +1,17 @@
+.container{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.tim-img{
+    height: 400px;
+}
+
+.logo-container{
+    padding-left: 10%;
+}
+
+h1{
+    font-size: 2.5rem;
+}
