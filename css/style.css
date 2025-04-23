@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
 
 header{
@@ -28,6 +31,7 @@ h1{
     font-weight: 600;
 }
 
+/* utils */
 .gray{
     color: gray;
 }
@@ -56,6 +60,7 @@ h1{
     background-color: white;
 }
 
+/* article image  */
 .tim-img{
     height: 500px;
 }
@@ -68,6 +73,7 @@ ul{
 table{
     border-collapse: collapse;
 }
+
 th{
     text-align: left;
     background-color: #20a9e5;
